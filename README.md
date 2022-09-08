@@ -9,7 +9,7 @@
 - Installation
 
 ## Summary
-Delish is an app that allows customers and home cooks to purchase and sell homemade meals.
+Delish is a homemade meal web app for home cooks to create meals and customers to search and order meals - collaborated project, team of 5.
 
 ## Heroku Link
 https://homemade-meal-app.herokuapp.com/
