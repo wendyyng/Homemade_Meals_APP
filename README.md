@@ -26,7 +26,7 @@ https://homemade-meal-app.herokuapp.com/
 ## Features
 
 - Sign in and sign up as either a cook or a customer
-- View and search for meals based on the title, ingredients, location and cook's name
+- View and search for meals based on the title, ingredients, and cook's name
 - Leave review on meals show page
 - Top 10 cooks on the index page
 - Place orders on meals
