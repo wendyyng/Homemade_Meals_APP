@@ -30,8 +30,8 @@ https://homemade-meal-app.herokuapp.com/
 - Leave review on meals show page
 - Top 10 cooks on the index page
 - Place orders on meals
-- Cooks to receive notifications when orders are placed by customers
-- Customers to receive notifications when orders have been accepted by cooks
+- Cooks to receive notifications when customers leave new reviews
+- Customers to receive notifications when reviews have been accepted by cooks
 
 ## Screenshots: 
 
