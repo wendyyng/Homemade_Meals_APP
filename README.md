@@ -1,24 +1,57 @@
-# README
+# Homemade Meal Ordering Platform - Delish
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Table of Contents
+- Summary
+- Heroku Link
+- Techgnologies Used
+- Features
+- Screenshots
+- Installation
 
-Things you may want to cover:
+## Summary
+Delish is an app that allows customers and home cooks to purchase and sell homemade meals.
 
-* Ruby version
+## Heroku Link
+https://homemade-meal-app.herokuapp.com/
 
-* System dependencies
+## Technologies Used:
 
-* Configuration
+- Ruby on Rails
+- ERB
+- Bootstrap
+- HTML
+- CSS
+- PostgreSQL
 
-* Database creation
+## Features
 
-* Database initialization
+- Sign in and sign up as either a cook or a customer
+- View and search for meals based on the title, ingredients, location and cook's name
+- Leave review on meals show page
+- Top 10 cooks on the index page
+- Place orders on meals
+- Cooks to receive notifications when orders are placed by customers
+- Customers to receive notifications when orders have been accepted by cooks
 
-* How to run the test suite
+## Screenshots: 
 
-* Services (job queues, cache servers, search engines, etc.)
+- Home Page:
+![image](https://user-images.githubusercontent.com/71687298/189031637-3f7faac4-a811-4df8-a47e-ec2d4f9a5895.png)
+- Meals Index Page:
+![image](https://user-images.githubusercontent.com/71687298/189032062-e7180609-9296-4bbd-a466-7677cda24b87.png)
+- Meals Show Page:
+![image](https://user-images.githubusercontent.com/71687298/189032096-bcdb7b4d-b7d6-4bfd-883e-50e8c4f02fdc.png)
+- Order Page:
+![image](https://user-images.githubusercontent.com/71687298/189032160-f17ee9e6-8f90-420f-bd97-9c1c3550f499.png)
+- User Panel:
+![image](https://user-images.githubusercontent.com/71687298/189032189-55e53a37-3c15-4eae-834b-c06607c2a850.png)
 
-* Deployment instructions
+## Installation:
 
-* ...
+- git clone URL
+- cd into project
+- Run rails db:create
+- Run rails db:migrate
+- Run rails db:seed
+- Run rails s
+- On the browser run localhost:3000
