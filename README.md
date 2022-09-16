@@ -1,4 +1,4 @@
-# Homemade Meal Ordering Platform - Delish
+# Delish
 
 ## Table of Contents
 - Summary
