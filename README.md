@@ -1,5 +1,5 @@
 # Delish
-
+![image](https://user-images.githubusercontent.com/71687298/189031637-3f7faac4-a811-4df8-a47e-ec2d4f9a5895.png)
 ## Table of Contents
 - Summary
 - Heroku Link
@@ -36,9 +36,6 @@ Delish is a homemade meal web app for home cooks to create meals and customers t
 - Customers to receive notifications when reviews have been accepted by cooks
 
 ## Screenshots: 
-
-- Home Page:
-![image](https://user-images.githubusercontent.com/71687298/189031637-3f7faac4-a811-4df8-a47e-ec2d4f9a5895.png)
 - Meals Index Page:
 ![image](https://user-images.githubusercontent.com/71687298/189032062-e7180609-9296-4bbd-a466-7677cda24b87.png)
 - Meals Show Page:
