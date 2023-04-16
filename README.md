@@ -12,6 +12,7 @@
 Delish is a homemade meal web app for home cooks to create meals and customers to search and order meals - collaborated project, a team of 5.
 
 ## Link
+- Live: https://delish.herokuapp.com/
 - Youtube: https://youtu.be/sMqee24ct54
 
 ## Technologies Used:
